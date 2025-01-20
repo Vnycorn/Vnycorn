@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on startup.
 - 📫 How to reach me: danieldeparis112@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: 😊😊😊
+- ⚡ Fun fact: Vnycorn = Violet + Unicorn
 
 <!---
 Vnycorn/Vnycorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
