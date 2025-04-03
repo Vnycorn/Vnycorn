@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning LLM.
 - 💞️ I’m looking to collaborate on startup.
-- 📫 How to reach me: danieldeparis112@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Vnycorn = Violet + Unicorn
 
